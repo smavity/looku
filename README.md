@@ -1,6 +1,6 @@
 # LookU Security
 
-LookU Security is an artificial intelligence project for IOT with main aim of providing extra layer of security by monitoring objects. LookU Security can be trained to recognise objects like gun, matchet, fire, smoke etc. and send automated alert.
+LookU Security is an artificial intelligence project for IoT with main aim of providing extra layer of security by monitoring objects. LookU Security can be trained to recognise objects like gun, matchet, fire, smoke etc. and send automated alert.
 
 ## Use Cases
 
